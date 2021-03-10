@@ -1,6 +1,6 @@
 # Overview
 
-https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master
+![Azure Dev Pipelines status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master)
 
 <TODO: complete this with an overview of your project>
 
