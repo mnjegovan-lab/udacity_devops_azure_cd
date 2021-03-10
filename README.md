@@ -1,16 +1,9 @@
 # Overview
 
-![Azure Dev Pipelines status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master)
+![Azure Dev Pipelines status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master&stageName=Deploy%20Web%20App)
 
-[![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master)]
-
-[![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_build/latest?definitionId=2&branchName=master)
 
 <TODO: complete this with an overview of your project>
-
-[![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master)](https://dev.azure.com/njegovan/Flask%20Pipelines/_build/latest?definitionId=2&branchName=master)
-
-[![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master&stageName=Deploy%20Web%20App)](https://dev.azure.com/njegovan/Flask%20Pipelines/_build/latest?definitionId=2&branchName=master)
 
 ## Project Plan
 <TODO: Project Plan
