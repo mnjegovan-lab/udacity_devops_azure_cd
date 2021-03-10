@@ -49,7 +49,16 @@ Here is the output of streamed log files from deployed application.
 https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 
 ```
-[{"machineName":"pl0sdlwk00001I_default","lastUpdated":"2021-03-10T11:51:47.8195533Z","size":23382,"href":"https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/vfs/LogFiles/2021_03_10_pl0sdlwk00001I_default_docker.log","path":"/home/LogFiles/2021_03_10_pl0sdlwk00001I_default_docker.log"},{"machineName":"pl0sdlwk00001I","lastUpdated":"2021-03-10T11:51:06.9256643Z","size":1582,"href":"https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/vfs/LogFiles/2021_03_10_pl0sdlwk00001I_docker.log","path":"/home/LogFiles/2021_03_10_pl0sdlwk00001I_docker.log"}]
+[{"machineName":"pl0sdlwk00001I_default",
+"lastUpdated":"2021-03-10T11:51:47.8195533Z",
+"size":23382,
+"href":"https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/vfs/LogFiles/2021_03_10_pl0sdlwk00001I_default_docker.log",
+"path":"/home/LogFiles/2021_03_10_pl0sdlwk00001I_default_docker.log"},
+{"machineName":"pl0sdlwk00001I",
+"lastUpdated":"2021-03-10T11:51:06.9256643Z",
+"size":1582,
+"href":"https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/vfs/LogFiles/2021_03_10_pl0sdlwk00001I_docker.log",
+"path":"/home/LogFiles/2021_03_10_pl0sdlwk00001I_docker.log"}]
 ```
 
 
