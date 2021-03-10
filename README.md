@@ -31,9 +31,8 @@
 ![MakeFile test](./screenshot/make_all_succesfull.jpg)
 
 * Output of a test run
-* 
-![Output](./screenshot/output_of_ a_test_run.jpg)
 
+![Output](./screenshot/output_of_ a_test_run.jpg)
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
