@@ -20,7 +20,11 @@
 
 * Project running on Azure App Service
 
+![Azure App Service](./screenshot/azure_app_service.jpg)
+
 * Project cloned into Azure Cloud Shell
+
+![Azure Cloud Shell](./screenshot/cd_git_clone.jpg)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
