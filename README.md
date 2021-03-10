@@ -28,7 +28,7 @@
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
-
+![MakeFile test](./screenshot/make_all_succesfull.jpg)
 
 * Output of a test run
 
