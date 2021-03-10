@@ -48,7 +48,7 @@ Here is the output of streamed log files from deployed application.
 
 https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 
-```
+```json
 [{"machineName":"pl0sdlwk00001I_default",
 "lastUpdated":"2021-03-10T11:51:47.8195533Z",
 "size":23382,
