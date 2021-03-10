@@ -42,9 +42,6 @@ Port: 443
 * Output of streamed log files from deployed application
 
 > 
-### Log
-
-Here is the output of streamed log files from deployed application.
 
 https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 
