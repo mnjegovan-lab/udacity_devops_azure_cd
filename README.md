@@ -45,6 +45,8 @@ Port: 443
 
 https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 
+![streamed_log](./screenshot/streamed_log.jpg)
+
 ```json
 [{
 "machineName":"pl0sdlwk00001I_default",
@@ -61,6 +63,10 @@ https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 "path":"/home/LogFiles/2021_03_10_pl0sdlwk00001I_docker.log"
 }]
 ```
+
+View the log file in Azure App Service - Log Stream :
+![azure_log_stream](./screenshot/azure_log_stream.jpg)
+
 
 
 ## Enhancements
