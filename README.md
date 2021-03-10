@@ -1,6 +1,6 @@
 # Overview
 
-[![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master&stageName=Deploy%20Web%20App)](https://dev.azure.com/njegovan/Flask%20Pipelines/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master&stageName=Deploy%20Web%20App)]
 
 
 <TODO: complete this with an overview of your project>
