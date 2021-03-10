@@ -38,7 +38,7 @@
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
-
+![Azure App Service from Azure Pipelines automatic deployment](./screenshot/azure_deploy_web_app_pipeline.jpg)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
