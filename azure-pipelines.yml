@@ -48,7 +48,6 @@ stages:
       displayName: "Install requirements"
       
     - script: |
-        pip install -r requirements.txt
         pip install pytest
         pip install pytest-cov
         pytest test_app.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html 
