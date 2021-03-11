@@ -51,6 +51,12 @@ stages:
         python -m pytest test_app.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
       workingDirectory: $(projectRoot)
       displayName: 'Test with pytest'
+      
+    - script: |
+        pip install pylint
+        python -m pylint --disable=R,C,W1203,W0702 app.py
+      workingDirectory: $(projectRoot)
+      displayName: 'Test with pylint'
 
     - task: ArchiveFiles@2
       displayName: 'Archive files'
