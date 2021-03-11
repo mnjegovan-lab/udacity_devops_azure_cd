@@ -50,6 +50,7 @@ stages:
     - script: |
         pip install pytest
         pip install pytest-cov
+        pip install -r requirements.txt
         python -m pytest test_app.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
       workingDirectory: $(projectRoot)
       displayName: 'Test with pytest'
