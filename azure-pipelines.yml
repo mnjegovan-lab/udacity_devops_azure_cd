@@ -42,18 +42,18 @@ stages:
         python -m pip install --upgrade pip
         pip install setup
         pip install -r requirements.txt
+        pip install pytest
+        pip install pytest-cov
+        pip install pylint
       workingDirectory: $(projectRoot)
       displayName: "Install requirements"
 
     - script: |
-        pip install pytest
-        pip install pytest-cov
         python -m pytest test_app.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
       workingDirectory: $(projectRoot)
       displayName: 'Test with pytest'
       
     - script: |
-        pip install pylint
         python -m pylint --disable=R,C,W1203,W0702 app.py
       workingDirectory: $(projectRoot)
       displayName: 'Test with pylint'
