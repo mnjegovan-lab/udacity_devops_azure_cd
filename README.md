@@ -2,8 +2,9 @@
 
 ![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master&stageName=Deploy%20Web%20App)
 
+This is the second project of Udacity DevOps Engineer for Microsoft Azure Nanodegree Program.
 
-<TODO: complete this with an overview of your project>
+This project builds CD pipeline using Azure Pipelines for a Python-based machine learning application.
 
 ## Project Plan
 <TODO: Project Plan
