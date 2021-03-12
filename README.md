@@ -36,7 +36,7 @@ This project builds CD pipeline using Azure Pipelines for a Python-based machine
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
-* ![atture_service_running](./screenshot/azure_app_service_running.jpg)
+![atture_service_running](./screenshot/azure_app_service_running.jpg)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
@@ -44,7 +44,6 @@ This project builds CD pipeline using Azure Pipelines for a Python-based machine
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
-
 
 ![App prediction](./screenshot/make_prediction_azure_app.jpg)
 
