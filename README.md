@@ -36,6 +36,8 @@ This project builds CD pipeline using Azure Pipelines for a Python-based machine
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
+* ![atture_service_running](./screenshot/azure_app_service_running.jpg)
+
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 ![Azure App Service from Azure Pipelines automatic deployment](./screenshot/azure_deploy_web_app_pipeline.jpg)
