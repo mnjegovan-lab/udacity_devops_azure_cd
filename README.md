@@ -10,7 +10,7 @@ This project builds CD pipeline using Azure Pipelines for a Python-based machine
 <TODO: Project Plan
 
 * Trello board : [link](https://trello.com/b/W5nc5xae/udacitydevopsprojecttwocd)
-* A link to a spreadsheet that includes the original and final project plan>
+* Project planning spreadsheet [link](https://docs.google.com/spreadsheets/d/1-9ILRP8bbXocpc4-n2Scd43UVbf96Oe-aBnB_BYbDDc/edit?usp=sharing)
 
 ## Instructions
 
