@@ -14,12 +14,9 @@ This project builds CD pipeline using Azure Pipelines for a Python-based machine
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram
 
 ![Azure App Service](./screenshot/architectural_diagram.png)
-
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
 
@@ -83,11 +80,13 @@ https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 View the log file in Azure App Service - Log Stream :
 ![azure_log_stream](./screenshot/azure_log_stream.jpg)
 
-
-
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+Introduce staging, creating multiple branches to be able to test and deploy code to stageing enviroment and only afterwards to production.
+
+Extend testing scope to achive ussure better code quality.
+
+Contenerize the app and move it to Kbernetes cluster
 
 ## Demo 
 
